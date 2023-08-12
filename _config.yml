@@ -1,0 +1,10 @@
+# Basic
+title: Manabu Sakai
+url: https://www.manabusakai.com
+
+# Outputting
+timezone: Asia/Tokyo
+
+# Handling Reading
+exclude:
+  - Dockerfile
